@@ -21,4 +21,10 @@ The webpage includes five filler search boxes on the left side of the page, whic
 ![Image 4](https://user-images.githubusercontent.com/103544626/187561047-03c83636-b615-4d77-9bf3-fb99792a4d61.PNG)
 
 ## Summary
-Using the ETL function to add data to PostgreSQL from multiple sources to create an automated pipline for incomoming new data. To create dataset tables to be used for analysis.
+
+### Drawbacks
+- One drawback for the design is that you have to type the "Exact" information to get the results you need. Any spelling or capitlization errors will result in no or incorrect data.
+### Improvment
+- A drop down menu instead of free inputting data to minimize errors.
+- Maybe include a calender pop out option to select the date to provide the correct format.
+
